@@ -6,6 +6,16 @@
 - 纯原生 JavaScript + Canvas 2D，1024×600 画布等比缩放（缩到 760×430 小窗布局依然正确）。
 - 在线试玩：https://abcqpwo.github.io/xiyou-tokusatsu-horror-brawl/
 
+## 界面预览
+
+| 主菜单 | 花果山战斗 |
+| --- | --- |
+| ![主菜单](docs/menu.png) | ![花果山战斗](docs/act1.png) |
+
+| 无限后室 · 规则面板 | BOSS 战 |
+| --- | --- |
+| ![无限后室](docs/act4.png) | ![BOSS 战](docs/boss.png) |
+
 ## 玩法
 
 四个世界，每界 2 波小怪 + 1 个 BOSS，界间三选一卡牌（18 张）：
